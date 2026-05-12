@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/2.work/4_education/1_C/3_c_state_machine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/3_c_state_machine/include -g -std=gnu99 -o CMakeFiles\\state_machine_example.dir\\examples\\main.c.obj -c D:\\2.work\\4_education\\1_C\\3_c_state_machine\\examples\\main.c",
+  "file": "D:/2.work/4_education/1_C/3_c_state_machine/examples/main.c",
+  "output": "D:/2.work/4_education/1_C/3_c_state_machine/build/CMakeFiles/state_machine_example.dir/examples/main.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/3_c_state_machine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/3_c_state_machine/include -g -std=gnu99 -o CMakeFiles\\state_machine_example.dir\\src\\state_machine.c.obj -c D:\\2.work\\4_education\\1_C\\3_c_state_machine\\src\\state_machine.c",
+  "file": "D:/2.work/4_education/1_C/3_c_state_machine/src/state_machine.c",
+  "output": "D:/2.work/4_education/1_C/3_c_state_machine/build/CMakeFiles/state_machine_example.dir/src/state_machine.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/3_c_state_machine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/3_c_state_machine/include -g -std=gnu99 -o CMakeFiles\\test_state_machine.dir\\tests\\test_state_machine.c.obj -c D:\\2.work\\4_education\\1_C\\3_c_state_machine\\tests\\test_state_machine.c",
+  "file": "D:/2.work/4_education/1_C/3_c_state_machine/tests/test_state_machine.c",
+  "output": "D:/2.work/4_education/1_C/3_c_state_machine/build/CMakeFiles/test_state_machine.dir/tests/test_state_machine.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/3_c_state_machine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/3_c_state_machine/include -g -std=gnu99 -o CMakeFiles\\test_state_machine.dir\\src\\state_machine.c.obj -c D:\\2.work\\4_education\\1_C\\3_c_state_machine\\src\\state_machine.c",
+  "file": "D:/2.work/4_education/1_C/3_c_state_machine/src/state_machine.c",
+  "output": "D:/2.work/4_education/1_C/3_c_state_machine/build/CMakeFiles/test_state_machine.dir/src/state_machine.c.obj"
+}
+]

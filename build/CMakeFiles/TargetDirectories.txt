@@ -1,0 +1,4 @@
+D:/2.work/4_education/1_C/3_c_state_machine/build/CMakeFiles/state_machine_example.dir
+D:/2.work/4_education/1_C/3_c_state_machine/build/CMakeFiles/test_state_machine.dir
+D:/2.work/4_education/1_C/3_c_state_machine/build/CMakeFiles/edit_cache.dir
+D:/2.work/4_education/1_C/3_c_state_machine/build/CMakeFiles/rebuild_cache.dir
