@@ -6,7 +6,7 @@ void sm_init(state_machine_t *sm)
     {
         return;
     }
-    sm->current_state = STATE_IDLE;
+    sm->current_state = STATE_IDLE; 
 }
 state_t sm_get_state(const state_machine_t *sm)
 {
